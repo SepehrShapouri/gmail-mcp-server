@@ -16,7 +16,6 @@ dist/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -30,3 +29,7 @@ gcp-oauth.keys.json
 credentials.json
 .calendar-server-credentials.json 
 .gcp-oauth.keys.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
